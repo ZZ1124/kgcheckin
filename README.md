@@ -5,6 +5,10 @@ GitHub Actions 实现 `酷狗概念VIP` 自动签到
 
 提供二维码登录(推荐)和手机号登录(一个手机号绑定多个账号无法登录,见 [多账号登录问题](https://github.com/MakcRe/KuGouMusicApi/issues/51))
 
+新增测速：GitHub Actions 托管：一键配置后，脚本每天自动运行，实现真正的“一劳永逸”。
+新增：自动保持仓库活跃：通过空提交防止 GitHub因仓库不活跃而禁用 Actions。
+新增：自动清理旧记录：自动删除旧的 Workflow 运行记录，保持 Actions 页面整洁。
+
 > [!warning]
 > 注意事项
 >
